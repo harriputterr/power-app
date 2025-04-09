@@ -18,6 +18,11 @@ const geistMono = Geist_Mono({
 });
 const navItems = [
   {
+    name: "Home",
+    href: "/",
+    message: "Sup! Broski"
+  },
+  {
     name: "Onboarding",
     href: "/onboarding",
     message: "File is stored in SharePoint, employee data in MongoDB, and a welcome email is sent via Outlook — all automated using Power Automate."
